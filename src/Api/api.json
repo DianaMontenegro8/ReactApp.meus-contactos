@@ -1,0 +1,16 @@
+{
+    "contactos": [
+        {
+            "id": "1",
+            "nome": "Diana Montenegro",
+            "email": "diama@gmail.com",
+            "telefone": "11 984227913"
+        },
+        {
+            "id": "2",
+            "nome": " Jahbari Noel",
+            "email": "Jahbari@gmail.com",
+            "telefone": "95 981296282"
+        }
+    ]
+}
